@@ -31,3 +31,8 @@
 9. Is Balanced
 10. Balance()
 
+## HEAPS
+## LinkedList
+## Stack and Queue
+## Merge sort
+
